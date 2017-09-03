@@ -17,3 +17,7 @@ function divide(a, b) {
     return "Cannot divide!"
   }
 }
+
+function inc(n) {
+  return n++
+}
